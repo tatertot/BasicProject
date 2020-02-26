@@ -7,7 +7,4 @@ Marissa Marquez
 Basic Template
 
 ### Dependencies
-- Unbox
-- RxSwift
-- RxCocoa
-- Reveal
+- Stevia
