@@ -7,7 +7,7 @@ def common_pods
   pod 'SteviaLayout', '4.5.0'
 end
 
-target 'BlankProject' do
+target 'BasicProject' do
   use_frameworks!
 
   common_pods
